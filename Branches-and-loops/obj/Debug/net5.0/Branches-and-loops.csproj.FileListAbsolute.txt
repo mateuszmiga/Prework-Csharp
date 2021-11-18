@@ -1,0 +1,16 @@
+C:\Users\Matesz\Prework-C-sharp\Prework-C-sharp\Branches-and-loops\obj\Debug\net5.0\Branches-and-loops.csproj.AssemblyReference.cache
+C:\Users\Matesz\Prework-C-sharp\Prework-C-sharp\Branches-and-loops\obj\Debug\net5.0\Branches-and-loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matesz\Prework-C-sharp\Prework-C-sharp\Branches-and-loops\obj\Debug\net5.0\Branches-and-loops.AssemblyInfoInputs.cache
+C:\Users\Matesz\Prework-C-sharp\Prework-C-sharp\Branches-and-loops\obj\Debug\net5.0\Branches-and-loops.AssemblyInfo.cs
+C:\Users\Matesz\Prework-C-sharp\Prework-C-sharp\Branches-and-loops\obj\Debug\net5.0\Branches-and-loops.csproj.CoreCompileInputs.cache
+C:\Users\Matesz\Prework-C-sharp\Prework-C-sharp\Branches-and-loops\bin\Debug\net5.0\Branches-and-loops.exe
+C:\Users\Matesz\Prework-C-sharp\Prework-C-sharp\Branches-and-loops\bin\Debug\net5.0\Branches-and-loops.deps.json
+C:\Users\Matesz\Prework-C-sharp\Prework-C-sharp\Branches-and-loops\bin\Debug\net5.0\Branches-and-loops.runtimeconfig.json
+C:\Users\Matesz\Prework-C-sharp\Prework-C-sharp\Branches-and-loops\bin\Debug\net5.0\Branches-and-loops.runtimeconfig.dev.json
+C:\Users\Matesz\Prework-C-sharp\Prework-C-sharp\Branches-and-loops\bin\Debug\net5.0\Branches-and-loops.dll
+C:\Users\Matesz\Prework-C-sharp\Prework-C-sharp\Branches-and-loops\bin\Debug\net5.0\ref\Branches-and-loops.dll
+C:\Users\Matesz\Prework-C-sharp\Prework-C-sharp\Branches-and-loops\bin\Debug\net5.0\Branches-and-loops.pdb
+C:\Users\Matesz\Prework-C-sharp\Prework-C-sharp\Branches-and-loops\obj\Debug\net5.0\Branches-and-loops.dll
+C:\Users\Matesz\Prework-C-sharp\Prework-C-sharp\Branches-and-loops\obj\Debug\net5.0\ref\Branches-and-loops.dll
+C:\Users\Matesz\Prework-C-sharp\Prework-C-sharp\Branches-and-loops\obj\Debug\net5.0\Branches-and-loops.pdb
+C:\Users\Matesz\Prework-C-sharp\Prework-C-sharp\Branches-and-loops\obj\Debug\net5.0\Branches-and-loops.genruntimeconfig.cache

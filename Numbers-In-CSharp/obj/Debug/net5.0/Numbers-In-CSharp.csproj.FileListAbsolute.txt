@@ -1,0 +1,16 @@
+C:\Users\Matesz\Prework-C-sharp\Prework-C-sharp\Numbers-In-CSharp\bin\Debug\net5.0\Numbers-In-CSharp.exe
+C:\Users\Matesz\Prework-C-sharp\Prework-C-sharp\Numbers-In-CSharp\bin\Debug\net5.0\Numbers-In-CSharp.deps.json
+C:\Users\Matesz\Prework-C-sharp\Prework-C-sharp\Numbers-In-CSharp\bin\Debug\net5.0\Numbers-In-CSharp.runtimeconfig.json
+C:\Users\Matesz\Prework-C-sharp\Prework-C-sharp\Numbers-In-CSharp\bin\Debug\net5.0\Numbers-In-CSharp.runtimeconfig.dev.json
+C:\Users\Matesz\Prework-C-sharp\Prework-C-sharp\Numbers-In-CSharp\bin\Debug\net5.0\Numbers-In-CSharp.dll
+C:\Users\Matesz\Prework-C-sharp\Prework-C-sharp\Numbers-In-CSharp\bin\Debug\net5.0\ref\Numbers-In-CSharp.dll
+C:\Users\Matesz\Prework-C-sharp\Prework-C-sharp\Numbers-In-CSharp\bin\Debug\net5.0\Numbers-In-CSharp.pdb
+C:\Users\Matesz\Prework-C-sharp\Prework-C-sharp\Numbers-In-CSharp\obj\Debug\net5.0\Numbers-In-CSharp.csproj.AssemblyReference.cache
+C:\Users\Matesz\Prework-C-sharp\Prework-C-sharp\Numbers-In-CSharp\obj\Debug\net5.0\Numbers-In-CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matesz\Prework-C-sharp\Prework-C-sharp\Numbers-In-CSharp\obj\Debug\net5.0\Numbers-In-CSharp.AssemblyInfoInputs.cache
+C:\Users\Matesz\Prework-C-sharp\Prework-C-sharp\Numbers-In-CSharp\obj\Debug\net5.0\Numbers-In-CSharp.AssemblyInfo.cs
+C:\Users\Matesz\Prework-C-sharp\Prework-C-sharp\Numbers-In-CSharp\obj\Debug\net5.0\Numbers-In-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Matesz\Prework-C-sharp\Prework-C-sharp\Numbers-In-CSharp\obj\Debug\net5.0\Numbers-In-CSharp.dll
+C:\Users\Matesz\Prework-C-sharp\Prework-C-sharp\Numbers-In-CSharp\obj\Debug\net5.0\ref\Numbers-In-CSharp.dll
+C:\Users\Matesz\Prework-C-sharp\Prework-C-sharp\Numbers-In-CSharp\obj\Debug\net5.0\Numbers-In-CSharp.pdb
+C:\Users\Matesz\Prework-C-sharp\Prework-C-sharp\Numbers-In-CSharp\obj\Debug\net5.0\Numbers-In-CSharp.genruntimeconfig.cache

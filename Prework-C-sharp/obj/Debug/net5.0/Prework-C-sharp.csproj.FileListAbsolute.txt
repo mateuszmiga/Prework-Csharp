@@ -1,0 +1,16 @@
+C:\Users\Matesz\Prework-C-sharp\Prework-C-sharp\Prework-C-sharp\obj\Debug\net5.0\Prework-C-sharp.csproj.AssemblyReference.cache
+C:\Users\Matesz\Prework-C-sharp\Prework-C-sharp\Prework-C-sharp\obj\Debug\net5.0\Prework-C-sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matesz\Prework-C-sharp\Prework-C-sharp\Prework-C-sharp\obj\Debug\net5.0\Prework-C-sharp.AssemblyInfoInputs.cache
+C:\Users\Matesz\Prework-C-sharp\Prework-C-sharp\Prework-C-sharp\obj\Debug\net5.0\Prework-C-sharp.AssemblyInfo.cs
+C:\Users\Matesz\Prework-C-sharp\Prework-C-sharp\Prework-C-sharp\obj\Debug\net5.0\Prework-C-sharp.csproj.CoreCompileInputs.cache
+C:\Users\Matesz\Prework-C-sharp\Prework-C-sharp\Prework-C-sharp\bin\Debug\net5.0\Prework-C-sharp.exe
+C:\Users\Matesz\Prework-C-sharp\Prework-C-sharp\Prework-C-sharp\bin\Debug\net5.0\Prework-C-sharp.deps.json
+C:\Users\Matesz\Prework-C-sharp\Prework-C-sharp\Prework-C-sharp\bin\Debug\net5.0\Prework-C-sharp.runtimeconfig.json
+C:\Users\Matesz\Prework-C-sharp\Prework-C-sharp\Prework-C-sharp\bin\Debug\net5.0\Prework-C-sharp.runtimeconfig.dev.json
+C:\Users\Matesz\Prework-C-sharp\Prework-C-sharp\Prework-C-sharp\bin\Debug\net5.0\Prework-C-sharp.dll
+C:\Users\Matesz\Prework-C-sharp\Prework-C-sharp\Prework-C-sharp\bin\Debug\net5.0\ref\Prework-C-sharp.dll
+C:\Users\Matesz\Prework-C-sharp\Prework-C-sharp\Prework-C-sharp\bin\Debug\net5.0\Prework-C-sharp.pdb
+C:\Users\Matesz\Prework-C-sharp\Prework-C-sharp\Prework-C-sharp\obj\Debug\net5.0\Prework-C-sharp.dll
+C:\Users\Matesz\Prework-C-sharp\Prework-C-sharp\Prework-C-sharp\obj\Debug\net5.0\ref\Prework-C-sharp.dll
+C:\Users\Matesz\Prework-C-sharp\Prework-C-sharp\Prework-C-sharp\obj\Debug\net5.0\Prework-C-sharp.pdb
+C:\Users\Matesz\Prework-C-sharp\Prework-C-sharp\Prework-C-sharp\obj\Debug\net5.0\Prework-C-sharp.genruntimeconfig.cache
