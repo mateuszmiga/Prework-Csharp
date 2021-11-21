@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Matesz\\Prework-C-sharp\\Prework-C-sharp\\Prework-C-sharp\\Hello-world.csproj": {}
+    "C:\\Users\\Matesz\\Prework-C-sharp\\Prework-C-sharp\\List-colection\\List-colection.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Matesz\\Prework-C-sharp\\Prework-C-sharp\\Prework-C-sharp\\Hello-world.csproj": {
+    "C:\\Users\\Matesz\\Prework-C-sharp\\Prework-C-sharp\\List-colection\\List-colection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Matesz\\Prework-C-sharp\\Prework-C-sharp\\Prework-C-sharp\\Hello-world.csproj",
-        "projectName": "Hello-world",
-        "projectPath": "C:\\Users\\Matesz\\Prework-C-sharp\\Prework-C-sharp\\Prework-C-sharp\\Hello-world.csproj",
+        "projectUniqueName": "C:\\Users\\Matesz\\Prework-C-sharp\\Prework-C-sharp\\List-colection\\List-colection.csproj",
+        "projectName": "List-colection",
+        "projectPath": "C:\\Users\\Matesz\\Prework-C-sharp\\Prework-C-sharp\\List-colection\\List-colection.csproj",
         "packagesPath": "C:\\Users\\Matesz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Matesz\\Prework-C-sharp\\Prework-C-sharp\\Prework-C-sharp\\obj\\",
+        "outputPath": "C:\\Users\\Matesz\\Prework-C-sharp\\Prework-C-sharp\\List-colection\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Matesz\\AppData\\Roaming\\NuGet\\NuGet.Config",

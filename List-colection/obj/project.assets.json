@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Matesz\\Prework-C-sharp\\Prework-C-sharp\\Branches-and-loops\\Branches-and-loops.csproj",
-      "projectName": "Branches-and-loops",
-      "projectPath": "C:\\Users\\Matesz\\Prework-C-sharp\\Prework-C-sharp\\Branches-and-loops\\Branches-and-loops.csproj",
+      "projectUniqueName": "C:\\Users\\Matesz\\Prework-C-sharp\\Prework-C-sharp\\List-colection\\List-colection.csproj",
+      "projectName": "List-colection",
+      "projectPath": "C:\\Users\\Matesz\\Prework-C-sharp\\Prework-C-sharp\\List-colection\\List-colection.csproj",
       "packagesPath": "C:\\Users\\Matesz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Matesz\\Prework-C-sharp\\Prework-C-sharp\\Branches-and-loops\\obj\\",
+      "outputPath": "C:\\Users\\Matesz\\Prework-C-sharp\\Prework-C-sharp\\List-colection\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Matesz\\AppData\\Roaming\\NuGet\\NuGet.Config",
